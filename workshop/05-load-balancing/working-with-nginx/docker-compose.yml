@@ -1,0 +1,20 @@
+version: '3.7'
+
+services:
+  employee-service01:
+    image: employee-service
+
+  employee-service02:
+    image: employee-service
+
+  employee-service03:
+    image: employee-service
+
+  load-balancer:
+    build: .
+    ports:
+      - "80:80"
+    depends_on:
+      - employee-service01
+      - employee-service02
+      - employee-service03
