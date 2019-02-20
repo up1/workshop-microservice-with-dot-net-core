@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{F6C9B287-1F53-4258-A0D1-7EA83DD94560}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeClient/README.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeApi/README.md">
     <Files>
       <File FileName="EmployeeApi/Startup.cs" Line="35" Column="55" />
       <File FileName="EmployeeApi/appsettings.json" Line="5" Column="29" />
       <File FileName="EmployeeApi/Infrastructures/ConsulHostedService.cs" Line="50" Column="54" />
-      <File FileName="EmployeeApi/README.md" Line="13" Column="90" />
-      <File FileName="EmployeeClient/README.md" Line="5" Column="74" />
+      <File FileName="EmployeeApi/README.md" Line="10" Column="30" />
+      <File FileName="EmployeeClient/README.md" Line="8" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.EmployeeApi PreferredExecutionTarget="MonoDevelop.Default" />
