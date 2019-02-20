@@ -1,0 +1,14 @@
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/bin/Debug/netcoreapp2.1/EmployeeApi.deps.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/bin/Debug/netcoreapp2.1/EmployeeApi.runtimeconfig.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/bin/Debug/netcoreapp2.1/EmployeeApi.runtimeconfig.dev.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/bin/Debug/netcoreapp2.1/EmployeeApi.dll
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/bin/Debug/netcoreapp2.1/EmployeeApi.pdb
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.csprojAssemblyReference.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.csproj.CoreCompileInputs.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.RazorAssemblyInfo.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.RazorAssemblyInfo.cs
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.AssemblyInfoInputs.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.AssemblyInfo.cs
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.RazorTargetAssemblyInfo.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.dll
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/01-point-to-point/EmployeeApi/obj/Debug/netcoreapp2.1/EmployeeApi.pdb
