@@ -5,3 +5,6 @@
 3. [Server-side service discovery](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/03-server-side-service-discovery)
 4. [Health Check of service](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/04-health-check)
 5. Load Balancing
+6. Distributed Tracing
+7. Metric
+8. Centralize Logging
