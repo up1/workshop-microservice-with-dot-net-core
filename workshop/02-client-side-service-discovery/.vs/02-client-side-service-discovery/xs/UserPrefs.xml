@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F6C9B287-1F53-4258-A0D1-7EA83DD94560}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeClient/appsettings.json">
+    <Files>
+      <File FileName="EmployeeClient/Program.cs" Line="28" Column="35" />
+      <File FileName="EmployeeClient/ApiClient.cs" Line="29" Column="9" />
+      <File FileName="EmployeeApi/README.md" Line="5" Column="69" />
+      <File FileName="EmployeeClient/README.md" Line="5" Column="75" />
+      <File FileName="EmployeeClient/appsettings.json" Line="2" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmployeeApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
