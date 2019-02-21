@@ -1,6 +1,15 @@
 ﻿<Properties StartupConfiguration="{468D3879-3BAA-4843-AC3D-CE9BB7F697DB}|Default">
   <MonoDevelop.Ide.ItemProperties.EmployeeProducer FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeConsumer/README.md">
+    <Files>
+      <File FileName="EmployeeProducer/Program.cs" Line="24" Column="37" />
+      <File FileName="EmployeeProducer/ServiceClient.cs" Line="45" Column="101" />
+      <File FileName="EmployeeProducer/README.md" Line="6" Column="61" />
+      <File FileName="EmployeeConsumer/Program.cs" Line="28" Column="49" />
+      <File FileName="EmployeeConsumer/Infrastructures/QueueProcessor.cs" Line="60" Column="64" />
+      <File FileName="EmployeeConsumer/README.md" Line="12" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.EmployeeConsumer FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

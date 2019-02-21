@@ -25,7 +25,7 @@ namespace EmployeeConsumer
             };
 
             DisplayRabbitSettings(config);
-            Console.WriteLine("Starting School Service Queue Processor....");
+            Console.WriteLine("Starting Employee Service Queue Processor....");
             Console.WriteLine();
 
 

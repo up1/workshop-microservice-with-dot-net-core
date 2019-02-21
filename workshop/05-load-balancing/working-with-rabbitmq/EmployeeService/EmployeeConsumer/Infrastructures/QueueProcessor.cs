@@ -57,7 +57,7 @@ namespace EmployeeConsumer.Infrastructures
                 switch (message)
                 {
                     case "employees":
-                        Console.WriteLine("Retrieving Employee");
+                        Console.WriteLine("Retrieving Employees");
                         result = JsonConvert.SerializeObject(_employeeRepository.Employees);
                         break;
                     default:
