@@ -5,9 +5,9 @@
 3. [Server-side service discovery](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/03-server-side-service-discovery)
 4. [Health Check of service](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/04-health-check)
 5. Load Balancing
+   * [Working with NGINX](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/05-load-balancing/working-with-nginx)
    * Working with RabbitMq
-   * Working with NGINX
-6. API Gateway with Kong
+6. API Gateway
 7. Distributed Tracing
 8. Metric
 9. Centralize Logging
