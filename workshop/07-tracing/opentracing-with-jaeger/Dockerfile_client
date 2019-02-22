@@ -1,0 +1,13 @@
+﻿FROM microsoft/dotnet:sdk AS build-env
+WORKDIR /app
+COPY ./ConsoleClient/*.csproj ./
+COPY ./JaegerWrapper/ /JaegerWrapper/
+RUN dotnet restore
+COPY ./ConsoleClient ./
+RUN dotnet publish -c Release -o out
+
+
+FROM microsoft/dotnet:aspnetcore-runtime
+WORKDIR /app
+COPY --from=build-env /app/out/ .
+ENTRYPOINT ["dotnet", "ConsoleClient.dll"]
