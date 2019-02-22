@@ -7,7 +7,7 @@
 5. Load Balancing
    * [Working with NGINX](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/05-load-balancing/working-with-nginx)
    * [Working with RabbitMQ](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/05-load-balancing/working-with-rabbitmq/EmployeeService)
-6. API Gateway
-7. Distributed Tracing
+6. [API Gateway](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/06-api-gateway)
+7. [Distributed Tracing](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/07-tracing/opentracing-with-jaeger)
 8. Metric
 9. Centralize Logging
