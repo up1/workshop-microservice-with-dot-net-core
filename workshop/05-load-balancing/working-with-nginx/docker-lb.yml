@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  web01:
+    image: nginx
+
+  web02:
+    image: nginx
+
+  load-balancer:
+    image: somkiat/lb
+    ports:
+      - "8080:80"
