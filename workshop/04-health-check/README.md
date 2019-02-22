@@ -15,7 +15,7 @@ $docker container run --rm -p 8080:80 --name employee --link consul:consul point
 
 Open url=http://localhost:8080/ in browser
 
-## Step 2 :: Call service from client
+## Step 3 :: Call service from client
 ```
 $cd EmployeeClient
 $docker image build -t employee-client .
