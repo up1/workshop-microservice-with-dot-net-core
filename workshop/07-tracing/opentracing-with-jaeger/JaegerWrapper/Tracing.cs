@@ -8,11 +8,15 @@ namespace JaegerWrapper
     {
         public static Tracer Init(string serviceName, ILoggerFactory loggerFactory)
         {
+            var senderConfiguration = new Configuration.SenderConfiguration(loggerFactory)
+                .WithAgentHost("jaeger").WithAgentPort(6831);
+            
             var samplerConfiguration = new Configuration.SamplerConfiguration(loggerFactory)
                 .WithType(ConstSampler.Type)
                 .WithParam(1);
 
             var reporterConfiguration = new Configuration.ReporterConfiguration(loggerFactory)
+                .WithSender(senderConfiguration)
                 .WithLogSpans(true);
 
             //var config = Configuration.FromEnv(loggerFactory);
