@@ -1,0 +1,16 @@
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.csprojAssemblyReference.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.RazorAssemblyInfo.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.RazorAssemblyInfo.cs
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.AssemblyInfoInputs.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.AssemblyInfo.cs
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/08-metric.deps.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/08-metric.runtimeconfig.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/08-metric.runtimeconfig.dev.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/08-metric.dll
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/08-metric.pdb
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.RazorTargetAssemblyInfo.cache
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.dll
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/obj/Debug/netcoreapp2.1/08-metric.pdb
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/somkiat/data/slide/microservice/dot_net_core/workshop/08-metric/08-metric/08-metric/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
