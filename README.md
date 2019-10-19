@@ -9,5 +9,5 @@
    * [Working with RabbitMQ](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/05-load-balancing/working-with-rabbitmq/EmployeeService)
 6. [API Gateway](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/06-api-gateway)
 7. [Distributed Tracing](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/07-tracing/opentracing-with-jaeger)
-8. Metric
+8. [Metric](https://github.com/up1/workshop-microservice-with-dot-net-core/tree/master/workshop/08-metric/08-metric/08-metric)
 9. Centralize Logging
