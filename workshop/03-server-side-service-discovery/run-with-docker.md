@@ -1,3 +1,13 @@
+## Delete all containers
+```
+// Good
+$docker container stop $(docker container ps -q)
+$docker container prune
+
+// Bad
+$docker rm -f $(docker ps -q -a)
+```
+
 ## Deploy with docker compose
 ```
 $docker-compose build
