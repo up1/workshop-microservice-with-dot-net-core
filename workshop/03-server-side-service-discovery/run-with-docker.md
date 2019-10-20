@@ -18,5 +18,9 @@ $docker stack services demo
 
 $docker service scale demo_employee=5
 
+// Delete all containers
+$docker container rm -f $(docker ps -a -q)
+$docker stack services demo
+
 $docker swarm leave --force
 ```
