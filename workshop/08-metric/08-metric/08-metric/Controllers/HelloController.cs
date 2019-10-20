@@ -10,7 +10,7 @@ namespace metric.Controllers
         [HttpGet]
         public ActionResult<string> Get()
         {
-            return "Hello";
+            return "Hello 2";
         }
     }
 }
